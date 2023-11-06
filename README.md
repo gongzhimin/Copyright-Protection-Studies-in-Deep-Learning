@@ -1,12 +1,12 @@
-# Ownership Protection Studies in Deep Learning
+# Copyright Protection Studies in Deep Learning
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square)](https://github.com/gongzhimin/ownership-protection-studies-in-deep-learning/pulls)
 
-Here's an ongoing list to summarize literature about **ownership protection** in deep learning, including the ownership of models and data. 
+Here's an ongoing list to summarize literature about **copyright protection** in deep learning, including the copyright of models and data. 
 
 And we would greatly appreciate your contributions to expand this list! `✧٩(^ω^)و✧`
 
-| Year | Title                                                        | Ownership Subject | Method               | Authors                                                      | Publisher | :link:                                                       |
+| Year | Title                                                        | Copyright Subject | Method               | Authors                                                      | Publisher | :link:                                                       |
 | :--- | :----------------------------------------------------------- | :---------------- | :------------------- | :----------------------------------------------------------- | :-------- | :----------------------------------------------------------- |
 | 2020 | **Membership Encoding for Deep Learning**                    | Model             | Membership Inference | Congzheng Song, and Reza Shokri                              | AsiaCCS   | [pdf](https://arxiv.org/pdf/1909.12982v1.pdf)                |
 | 2022 | **Your Model Trains on My Data? Protecting Intellectual Property of Training Data via Membership Fingerprint Authentication** | Model & Data      | Membership Inference | Gaoyang Liu, Tianlong Xu, Xiaoqiang Ma, and Chen Wang        | TIFS      | [pdf](https://ieeexplore.ieee.org/abstract/document/9724248) |
@@ -17,6 +17,4 @@ And we would greatly appreciate your contributions to expand this list! `✧٩(^
 
 
 
-
-
-Why Ownership not Copyright?
+What's the difference between Ownership and Copyright in deep learning?
