@@ -13,7 +13,7 @@ And we would greatly appreciate your contributions to expand this list! `✧٩(^
 | 2022 | **Data Isotopes for Data Provenance in DNNs**                | Data              | Watermarking         | Emily Wenger, Xiuyu Li, Ben Y. Zhao, and Vitaly Shmatikov    | Arxiv     | [pdf](https://arxiv.org/pdf/2208.13893.pdf)                  |
 | 2023 | **Black-Box Dataset Ownership Verification via Backdoor Watermarking** | Data              | Backdoor Attack      | Yiming Li, Mingyan Zhu, Xue Yang, Yong Jiang, Tao Wei, and Shu-Tao Xia | TIFS      | [pdf](https://ieeexplore.ieee.org/abstract/document/10097580) & [code](https://github.com/JunfengGo/Domain-Watermark) |
 | 2022 | **Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection** | Data              | Backdoor Attack      | Yiming Li, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, and Bo Li | NeurIPS   | [pdf](https://proceedings.neurips.cc/paper_files/paper/2022/file/55bfedfd31489e5ae83c9ce8eec7b0e1-Paper-Conference.pdf) & [code](https://github.com/JunfengGo/Domain-Watermark) |
-| 2023 | **Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand** | Data              | Watermarking         | Junfeng Guo, Yiming Li, Lixu Wang, Shu-Tao Xia, Heng Huang, Cong Liu, and Bo Li | NeurIPS   | [pdf](https://arxiv.org/pdf/2310.14942.pdf) & [code](https://github.com/JunfengGo/Domain-Watermark) |
+| 2023 | **Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand** | Data              | Adversarial Training | Junfeng Guo, Yiming Li, Lixu Wang, Shu-Tao Xia, Heng Huang, Cong Liu, and Bo Li | NeurIPS   | [pdf](https://arxiv.org/pdf/2310.14942.pdf) & [code](https://github.com/JunfengGo/Domain-Watermark) |
 
 
 
